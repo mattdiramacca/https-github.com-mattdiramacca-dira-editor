@@ -13,3 +13,7 @@ void config_default(Config *cfg) {
     cfg->create_backup = 0;
     cfg->auto_save_interval = 0;
 }
+
+
+// comment to test git push // 
+
